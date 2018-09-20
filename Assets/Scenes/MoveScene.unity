@@ -604,7 +604,7 @@ Prefab:
     - target: {fileID: 13700014, guid: be0eefeb7cba34a46939d64c1932fd58, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: cc526e23fe53b47d5bb261835565a4cb, type: 2}
+      objectReference: {fileID: 2100000, guid: 760198cff4124774cb7262f0d374a9a0, type: 2}
     - target: {fileID: 13700038, guid: be0eefeb7cba34a46939d64c1932fd58, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -620,7 +620,7 @@ Prefab:
     - target: {fileID: 13700018, guid: be0eefeb7cba34a46939d64c1932fd58, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: c29e67112a6054264805fceadeeb1e5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 760198cff4124774cb7262f0d374a9a0, type: 2}
     - target: {fileID: 13700020, guid: be0eefeb7cba34a46939d64c1932fd58, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -628,7 +628,7 @@ Prefab:
     - target: {fileID: 13700000, guid: be0eefeb7cba34a46939d64c1932fd58, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f725364ba7b4446a9a3ae500b8d30cbb, type: 2}
+      objectReference: {fileID: 2100000, guid: 760198cff4124774cb7262f0d374a9a0, type: 2}
     - target: {fileID: 13700022, guid: be0eefeb7cba34a46939d64c1932fd58, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -821,7 +821,7 @@ Animator:
   m_GameObject: {fileID: 1798990942}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: be0eefeb7cba34a46939d64c1932fd58, type: 3}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: bed2135eab5044d6d9de09a176adc3e4, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
